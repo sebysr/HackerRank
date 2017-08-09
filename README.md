@@ -1,7 +1,6 @@
-# HackerRank
-HackerRank: the challenge starts here!
+# HackerRank: the challenge starts here!
 
-Customer service capacity
+# Customer service capacity
 At Booking.com our customer service team is an important contributor to customer
 satisfaction. During busy times, however, there might be more calls to customer
 service than the number of customer service executives can manage. Fortunately, we
